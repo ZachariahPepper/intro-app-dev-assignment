@@ -1,0 +1,104 @@
+ @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+.App {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.book-container {
+  margin: 20px;
+  box-shadow: none;
+  border: 1px solid black;
+}
+
+.author-container {
+  margin: 20px;
+  box-shadow: none;
+  border: 1px solid black;
+}
+
+.publisher-container {
+  margin: 20px;
+  box-shadow: none;
+  border: 1px solid black;
+}
+
+@media screen and (max-width: 600px) {
+  .book-container {
+    width: 100%;
+    margin: 0;
+    box-shadow: none;
+  }
+}
+.book-title {
+  font-weight: 600;
+}
+
+.book-title a {
+  text-decoration: none;
+}
+
+.book-release_date {
+  font-weight: 600;
+  font-style: bold;
+}
+
+.book-pages {
+  font-weight: 600;
+  font-style: bold;
+}
+
+.author-name {
+  font-weight: 600;
+}
+
+.author-name a {
+  text-decoration: none;
+}
+
+.author-dob {
+  font-weight: 600;
+  font-style: bold;
+}
+
+.author-genre {
+  font-weight: 600;
+  font-style: bold;
+}
+
+.author-country {
+  font-weight: 600;
+  font-style: bold;
+}
+
+.publisher-name {
+  font-weight: 600;
+}
+
+.publisher-name a {
+  text-decoration: none;
+}
+
+.publisher-location {
+  font-weight: 600;
+  font-style: bold;
+}
+
+.footer {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.header h1 {
+  float: left
+}
+
+.addButton {
+  float: right;
+  margin: 10px;
+}
+
