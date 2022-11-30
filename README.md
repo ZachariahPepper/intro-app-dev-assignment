@@ -1,7 +1,6 @@
-# intro-app-dev-2021-s1-project-1-ZachariahPepper
-intro-app-dev-2021-s1-project-1-ZachariahPepper created by GitHub Classroom
+# Intro App Dev 2021s1 Project
 
-# URL's to application and API:
+# URL to application:
 URL to react app on Heroku: https://app-dev-library.herokuapp.com  
 
 # Development Setup
