@@ -3,10 +3,6 @@ intro-app-dev-2021-s1-project-1-ZachariahPepper created by GitHub Classroom
 
 # URL's to application and API:
 URL to react app on Heroku: https://app-dev-library.herokuapp.com  
-URL's to API on Heroku:  
-Books: https://damp-peak-79447.herokuapp.com/books  
-Authors: https://damp-peak-79447.herokuapp.com/authors  
-Publishers: https://damp-peak-79447.herokuapp.com/publishers  
 
 # Development Setup
 ## API
